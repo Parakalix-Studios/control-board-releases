@@ -10,8 +10,21 @@ repository holds only builds.
 ## What you need
 
 - Windows 10 or 11 (64-bit)
-- A Proxmox VE host or cluster this PC can reach
+- A Proxmox VE host or cluster that your PC can reach
 - Optional: a Kubernetes cluster, websites to check, SSH access to the hosts
+
+## What it connects to
+
+Everything runs on your PC. The app talks directly from your PC to the
+systems you add, and to nothing else of ours:
+
+- your Proxmox, Kubernetes, hosts and web checks, with the read-only access
+  you give it
+- Cloudflare's API, only if you add a Cloudflare token
+- GitHub, to check this repository for updates
+
+There is no telemetry, no account and no server in the middle. Your settings,
+history and secrets stay on your PC.
 
 ## Install
 
