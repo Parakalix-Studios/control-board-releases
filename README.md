@@ -5,7 +5,8 @@ that watches a Proxmox homelab: hosts, guests, graphs, a network map,
 Kubernetes, web checks, certificates, and alerts. The source is private; this
 repository holds only builds.
 
-**Status: private alpha.**
+**Status: private alpha.** Proprietary software: by installing it you accept
+the [licence](LICENSE).
 
 ## What you need
 
