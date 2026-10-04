@@ -14,3 +14,7 @@ signed builds.
 
 Updates arrive inside the app. Each one is signed, and the app refuses an
 update whose signature does not match.
+
+Found a bug? Open an [issue](../../issues) with what you did, what you
+expected and what happened. Please leave out passwords, tokens and anything
+else private: issues here are public.
