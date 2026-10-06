@@ -6,7 +6,7 @@ Kubernetes, web checks, certificates, and alerts. The source is private; this
 repository holds only builds.
 
 **Status: private alpha.** Proprietary software: by installing it you accept
-the [licence](LICENSE).
+the [license](LICENSE).
 
 ## What you need
 
